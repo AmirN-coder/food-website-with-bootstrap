@@ -36,7 +36,7 @@ p {
     color: #fff;
 }
 
-.btn {
+/* .btn {
     font-size: 1em;
     color: #fff;
     background: #ff0157;
@@ -51,7 +51,7 @@ p {
 
 .btn:hover {
     letter-spacing: 7px;
-}
+} */
 
 header {
     position: fixed;
