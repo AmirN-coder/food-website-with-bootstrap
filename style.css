@@ -38,12 +38,15 @@ p {
 
 .btn {
     font-size: 1em;
+    width: 100px;
+    height: auto;
     color: #fff;
     background: #ff0157;
     display: inline-block;
     padding: 10px 30px;
-    margin-top: 20px;
+    margin-top: 30px;
     text-transform: uppercase;
+    transition: 0.5s;
     text-decoration: none;
     letter-spacing: 2px;
     transition: 0.5s;
